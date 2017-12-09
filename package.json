@@ -88,7 +88,7 @@
     "standard-version": "^4.0.0",
     "ts-node": "^3.0.4",
     "tsickle": "^0.25.5",
-    "typescript": "~2.5.1",
+    "typescript": "~2.6.1",
     "zone.js": "^0.8.10"
   },
   "private": true,
